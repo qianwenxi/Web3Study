@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Package",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto", // 自动识别项目类型（本地服务优先）
+            "program": "${workspaceFolder}", // 调试项目根目录（等价于 go run .）
+            "args": [], // 服务启动参数（如 --port 3000，无则留空）
+            "env": {}, // 环境变量（如 DB_HOST=localhost，无则留空）
+            "showLog": false, // 是否显示调试日志（默认关闭，报错时可打开）
+            // 可选：允许调试依赖包（如 gin、gorm 源码，需时添加）
+            "dlvLoadConfig": {
+                "followPointers": true,
+                "maxVariableRecurse": 3,
+                "maxStringLen": 1024,
+                "maxArrayValues": 128
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 15:04:57"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 15:04:57"}
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 15:36:32"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 15:36:32"}
+{"level":"info","msg":"服务启动成功，监听端口: 8080","time":"2026-01-18 15:36:32"}
+{"level":"info","msg":"查询文章列表成功","time":"2026-01-18 16:00:08"}
+{"level":"info","msg":"查询文章列表成功","time":"2026-01-18 16:34:50"}
+{"level":"info","msg":"查询文章列表成功","time":"2026-01-18 16:34:55"}
+{"level":"info","msg":"查询文章列表成功","time":"2026-01-18 16:34:57"}
+{"level":"info","msg":"查询文章列表成功","time":"2026-01-18 16:36:56"}
+{"level":"info","msg":"查询文章列表成功","time":"2026-01-18 16:36:58"}
+{"level":"warning","msg":"登录参数错误: EOF","time":"2026-01-18 16:38:27"}
+{"level":"warning","msg":"登录参数错误: EOF","time":"2026-01-18 16:40:18"}
+{"level":"warning","msg":"登录参数错误: EOF","time":"2026-01-18 16:40:19"}
+{"level":"warning","msg":"登录参数错误: EOF","time":"2026-01-18 16:40:27"}
+{"level":"warning","msg":"密码错误: xiaozhang","time":"2026-01-18 16:42:01"}
+{"level":"warning","msg":"密码错误: xiaozhang","time":"2026-01-18 16:42:04"}
+{"level":"warning","msg":"密码错误: xiaozhang","time":"2026-01-18 16:42:49"}
+{"level":"warning","msg":"密码错误: xiaozhang","time":"2026-01-18 16:42:50"}
+{"level":"warning","msg":"密码错误: xiaozhang","time":"2026-01-18 16:42:59"}
+{"level":"warning","msg":"注册参数错误: EOF","time":"2026-01-18 16:49:22"}
+{"level":"warning","msg":"注册参数错误: Key: 'RegisterRequest.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'RegisterRequest.Password' Error:Field validation for 'Password' failed on the 'required' tag\nKey: 'RegisterRequest.Email' Error:Field validation for 'Email' failed on the 'required' tag","time":"2026-01-18 16:49:33"}
+{"level":"error","msg":"创建用户失败: Error 1364 (HY000): Field 'password_hash' doesn't have a default value","time":"2026-01-18 16:50:42"}
+{"level":"info","msg":"用户注册成功: xiaoLei","time":"2026-01-18 16:54:55"}
+{"level":"info","msg":"用户登录成功: xiaoLei","time":"2026-01-18 16:55:13"}
+{"level":"info","msg":"查询文章列表成功","time":"2026-01-18 17:23:20"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:25:16"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:25:25"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:25:29"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:25:33"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:25:36"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:25:39"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:25:43"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:25:46"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:30:10"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:37:53"}
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 17:45:23"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 17:45:23"}
+{"level":"info","msg":"服务启动成功，监听端口: 8080","time":"2026-01-18 17:45:23"}
+{"level":"fatal","msg":"服务启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.","time":"2026-01-18 17:45:23"}
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 17:45:35"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 17:45:35"}
+{"level":"info","msg":"服务启动成功，监听端口: 8080","time":"2026-01-18 17:45:35"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:45:52"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:45:53"}
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 17:47:22"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 17:47:22"}
+{"level":"info","msg":"服务启动成功，监听端口: 8080","time":"2026-01-18 17:47:23"}
+{"level":"fatal","msg":"服务启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.","time":"2026-01-18 17:47:23"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:47:33"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:48:08"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:50:17"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:51:02"}
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 17:52:19"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 17:52:19"}
+{"level":"info","msg":"服务启动成功，监听端口: 8080","time":"2026-01-18 17:52:19"}
+{"level":"fatal","msg":"服务启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.","time":"2026-01-18 17:52:19"}
+{"level":"warning","msg":"查询文章失败: record not found","time":"2026-01-18 17:52:58"}
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 17:53:03"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 17:53:03"}
+{"level":"info","msg":"服务启动成功，监听端口: 8080","time":"2026-01-18 17:53:03"}
+{"level":"info","msg":"查询文章详情成功: 8","time":"2026-01-18 17:53:16"}
+{"level":"info","msg":"用户5创建文章成功: 我的第一篇博客","time":"2026-01-18 17:57:57"}
+{"level":"info","msg":"用户5为文章15创建评论成功","time":"2026-01-18 18:00:33"}
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 18:04:39"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 18:04:39"}
+{"level":"info","msg":"服务启动成功，监听端口: 8080","time":"2026-01-18 18:04:39"}
+{"level":"info","msg":"用户5为文章15创建评论成功","time":"2026-01-18 18:07:39"}
+{"level":"warning","msg":"请求缺少Authorization头","time":"2026-01-18 18:08:06"}
+{"level":"info","msg":"查询文章15的评论成功，共2条","time":"2026-01-18 18:09:51"}
+{"level":"info","msg":"查询文章15的评论成功，共2条","time":"2026-01-18 18:10:06"}
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 18:10:49"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 18:10:49"}
+{"level":"info","msg":"服务启动成功，监听端口: 8080","time":"2026-01-18 18:10:49"}
+{"level":"info","msg":"用户5更新文章成功: 15","time":"2026-01-18 18:14:21"}
+{"level":"info","msg":"博客系统后端启动...","time":"2026-01-18 18:17:48"}
+{"level":"info","msg":"数据库连接成功","time":"2026-01-18 18:17:48"}
+{"level":"info","msg":"服务启动成功，监听端口: 8080","time":"2026-01-18 18:17:48"}
+{"level":"info","msg":"用户5更新文章成功: 15","time":"2026-01-18 18:17:55"}
+{"level":"info","msg":"查询文章列表成功","time":"2026-01-18 18:19:54"}
+{"level":"info","msg":"用户5创建文章成功: 待删除","time":"2026-01-18 18:20:39"}
+{"level":"warning","msg":"请求缺少Authorization头","time":"2026-01-18 18:21:33"}
+{"level":"info","msg":"用户5为文章16创建评论成功","time":"2026-01-18 18:23:00"}
+{"level":"info","msg":"用户5删除文章成功: 16","time":"2026-01-18 18:23:19"}
